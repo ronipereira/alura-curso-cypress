@@ -1,0 +1,5 @@
+*.txt
+videos
+node_modules
+reports
+results
